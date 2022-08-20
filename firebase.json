@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "firebase": "imessage-clone-tu",
+    "public": "build",
+    "rewrites": [{
+      "source": "**",
+      "destination": "/index.html"
+    }]
+  }
+}
